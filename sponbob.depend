@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709037224 source:d:\sdl\sponbob\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
