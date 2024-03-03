@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1708360432 source:d:\sdl\demosdl\main.cpp
+	<iostream>
+	<SDL.h>
+
+1709035879 source:d:\sdl\demosdl\hangman.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
