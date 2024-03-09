@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1709989750 source:d:\sdl\event_chuot\event_chuot.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+
+1709987724 d:\sdl\event_chuot\defs.h
+
+1709989329 d:\sdl\event_chuot\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+

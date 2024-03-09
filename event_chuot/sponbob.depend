@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1709037224 source:d:\sdl\sponbob\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1709987763 source:d:\sdl\projectnhieufiletuan4\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1709987724 d:\sdl\projectnhieufiletuan4\defs.h
+
+1709988511 source:d:\sdl\event_chuot\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+
+1709987724 d:\sdl\event_chuot\defs.h
+
+1709989329 d:\sdl\event_chuot\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1709989750 source:d:\sdl\event_chuot\event_chuot.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+
