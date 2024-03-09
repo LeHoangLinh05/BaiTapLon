@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709037224 source:d:\sdl\sponbob\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1709987763 source:d:\sdl\projectnhieufiletuan4\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1709987724 d:\sdl\projectnhieufiletuan4\defs.h
+
