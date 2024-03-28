@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1711625729 source:d:\sdl\vatdichuyen_tuan7\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"game.h"
+
+1710592972 d:\sdl\vatdichuyen_tuan7\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"logic.h"
+
+1710592970 d:\sdl\vatdichuyen_tuan7\defs.h
+
+1710592974 d:\sdl\vatdichuyen_tuan7\logic.h
+
+1711625711 d:\sdl\vatdichuyen_tuan7\game.h
+
