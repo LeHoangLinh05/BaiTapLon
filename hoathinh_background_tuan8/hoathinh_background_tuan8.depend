@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712232163 source:d:\sdl\hoathinh_background_tuan8\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1712232162 d:\sdl\hoathinh_background_tuan8\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1712232746 d:\sdl\hoathinh_background_tuan8\defs.h
+
