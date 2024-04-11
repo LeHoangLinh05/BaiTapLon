@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712847684 source:d:\sdl\collision\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"game.h"
+
+1712847659 d:\sdl\collision\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1712847626 d:\sdl\collision\defs.h
+
+1712847683 d:\sdl\collision\game.h
+
