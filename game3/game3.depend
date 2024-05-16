@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1715886447 source:d:\sdl\game3\main.cpp
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<ctime>
+	<SDL_ttf.h>
+	"renderFunctions.h"
+	"collisionChecker.h"
+	"gameFunctions.h"
+	"gamePlay.h"
+	"graphics.h"
+	"menu.h"
+
+1715887238 d:\sdl\game3\renderfunctions.h
+	<iostream>
+	<utility>
+	<ctime>
+	<cstdlib>
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	<algorithm>
+
+1712593517 d:\sdl\game3\collisionchecker.h
+
+1715881316 d:\sdl\game3\gamefunctions.h
+	<iostream>
+	<utility>
+	<ctime>
+	<cstdlib>
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	"graphics.h"
+	"menu.h"
+
+1715887375 d:\sdl\game3\gameplay.h
+	"gameFunctions.h"
+	"graphics.h"
+	"renderFunctions.h"
+	"collisionChecker.h"
+	"menu.h"
+
+1715872368 d:\sdl\game3\graphics.h
+	<SDL_ttf.h>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1715886473 d:\sdl\game3\menu.h
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<ctime>
+	<SDL_ttf.h>
+	"renderFunctions.h"
+	"gameFunctions.h"
+	"graphics.h"
+	"gamePlay.h"
+
+1715875327 source:d:\sdl\game3\menu.cpp
+	"menu.h"
+
